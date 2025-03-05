@@ -1,0 +1,5 @@
+ollama
+langgraph
+qdrant-client
+langchain
+requests
